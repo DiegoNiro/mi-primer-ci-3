@@ -2,7 +2,7 @@ def suma(a, b):
     return a + b  # Corregido
 
 def resta(a, b):
-    return a - b - c
+    return a - b
 
 def multiplicacion(a, b):
     return a * b
